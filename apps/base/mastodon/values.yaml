@@ -65,7 +65,7 @@ elasticsearch:
 
 postgresql:
   enabled: false
-  postgresqlHostname: 10.35.48.4
+  postgresqlHostname: 10.35.49.5
   postgresqlPort: 5432
   auth:
     database: mastodon

@@ -7,7 +7,7 @@ spec:
   interval: 5m
   chart:
     spec:
-      chart: ./chart
+      chart: .
       sourceRef:
         kind: GitRepository
         name: mastodon
